@@ -1,2 +1,2 @@
 # delta-demo
-This is tutorial about Git @amp; GitHub class
+# This is tutorial about Git & GitHub class
